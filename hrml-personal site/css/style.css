@@ -1,0 +1,29 @@
+body {
+    background-color:#ffeadb;
+    margin:0;
+}
+h1 {
+    margin-right:0 ;
+}
+
+div {
+    background-color: #ecfbfc;
+    border: 10px solid  black;
+    padding: 20px;
+    /* width: 200px;
+    height: 200px; */
+}
+.middle-container{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border: 20px solid black;
+    margin-left: 260px;
+}
+.bottom-container {
+background-color: blue;
+height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    margin-left: 540px;
+}
